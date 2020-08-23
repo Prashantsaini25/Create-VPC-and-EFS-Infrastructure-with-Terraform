@@ -1,7 +1,7 @@
 #provider
 provider "aws" {
 region = "ap-south-1"
-profile = "PrincePrashantSaini"
+profile = "Prince Prashant Saini"
 }
 
 #vpc 
